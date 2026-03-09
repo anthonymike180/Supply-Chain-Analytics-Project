@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Unit_Price,Weight_kg,Supplier_ID
+PROD_001,Product_1,Home & Garden,286.01,33.48,SUP_009
+PROD_002,Product_2,Sports,198.85,33.33,SUP_020
+PROD_003,Product_3,Food & Beverage,17.82,29.61,SUP_017
+PROD_004,Product_4,Sports,123.14,13.81,SUP_017
+PROD_005,Product_5,Sports,128.1,28.11,SUP_020
+PROD_006,Product_6,Clothing,344.8,19.21,SUP_012
+PROD_007,Product_7,Food & Beverage,308.9,48.59,SUP_007
+PROD_008,Product_8,Food & Beverage,418.27,42.46,SUP_002
+PROD_009,Product_9,Food & Beverage,94.95,36.11,SUP_003
+PROD_010,Product_10,Sports,201.62,11.88,SUP_017
+PROD_011,Product_11,Home & Garden,99.3,12.88,SUP_005
+PROD_012,Product_12,Food & Beverage,380.13,2.12,SUP_017
+PROD_013,Product_13,Health & Beauty,218.33,35.56,SUP_017
+PROD_014,Product_14,Sports,111.89,5.63,SUP_017
+PROD_015,Product_15,Clothing,288.17,22.02,SUP_002
+PROD_016,Product_16,Home & Garden,25.34,10.17,SUP_002
+PROD_017,Product_17,Health & Beauty,422.72,44.8,SUP_005
+PROD_018,Product_18,Health & Beauty,230.38,23.82,SUP_001
+PROD_019,Product_19,Clothing,203.62,28.21,SUP_001
+PROD_020,Product_20,Home & Garden,464.06,34.81,SUP_019
+PROD_021,Product_21,Sports,366.36,7.05,SUP_002
+PROD_022,Product_22,Electronics,170.0,30.26,SUP_012
+PROD_023,Product_23,Home & Garden,289.52,27.04,SUP_006
+PROD_024,Product_24,Clothing,265.21,10.23,SUP_004
+PROD_025,Product_25,Health & Beauty,480.97,47.15,SUP_011
+PROD_026,Product_26,Sports,423.82,29.98,SUP_017
+PROD_027,Product_27,Home & Garden,376.19,34.77,SUP_006
+PROD_028,Product_28,Electronics,274.45,44.04,SUP_005
+PROD_029,Product_29,Electronics,297.51,31.26,SUP_020
+PROD_030,Product_30,Food & Beverage,482.98,14.85,SUP_002
+PROD_031,Product_31,Food & Beverage,307.45,5.36,SUP_006
+PROD_032,Product_32,Clothing,145.24,22.88,SUP_011
+PROD_033,Product_33,Home & Garden,155.17,11.0,SUP_016
+PROD_034,Product_34,Home & Garden,90.98,20.88,SUP_016
+PROD_035,Product_35,Health & Beauty,17.66,44.18,SUP_001
+PROD_036,Product_36,Health & Beauty,217.47,16.28,SUP_009
+PROD_037,Product_37,Health & Beauty,203.49,6.19,SUP_006
+PROD_038,Product_38,Food & Beverage,153.81,17.88,SUP_016
+PROD_039,Product_39,Home & Garden,16.9,45.35,SUP_003
+PROD_040,Product_40,Home & Garden,107.43,13.68,SUP_020
+PROD_041,Product_41,Electronics,358.56,32.42,SUP_004
+PROD_042,Product_42,Food & Beverage,397.19,0.13,SUP_019
+PROD_043,Product_43,Sports,306.92,17.69,SUP_003
+PROD_044,Product_44,Food & Beverage,463.89,15.31,SUP_019
+PROD_045,Product_45,Sports,329.03,8.32,SUP_020
+PROD_046,Product_46,Electronics,458.33,26.75,SUP_007
+PROD_047,Product_47,Clothing,426.52,24.29,SUP_020
+PROD_048,Product_48,Home & Garden,230.23,34.65,SUP_009
+PROD_049,Product_49,Electronics,56.75,13.54,SUP_001
+PROD_050,Product_50,Home & Garden,191.7,12.28,SUP_008

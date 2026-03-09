@@ -1,0 +1,9 @@
+Warehouse_ID,Warehouse_Name,Region,Capacity,Operating_Cost_Annual
+WH_001,Warehouse_1,Central,181373,754079
+WH_002,Warehouse_2,Central,165294,1050929
+WH_003,Warehouse_3,East,174019,1189944
+WH_004,Warehouse_4,West,115726,1188105
+WH_005,Warehouse_5,North,191564,1013758
+WH_006,Warehouse_6,Central,165668,1483609
+WH_007,Warehouse_7,Central,56102,1914466
+WH_008,Warehouse_8,North,168015,1517703

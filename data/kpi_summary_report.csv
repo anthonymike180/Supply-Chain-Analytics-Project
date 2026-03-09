@@ -1,0 +1,13 @@
+Metric,Value
+Total Orders,"5,000"
+Total Revenue (M USD),62.70
+Average Order Value (USD),12540.28
+Order Fulfillment Rate (%),81.32
+On-Time Delivery Rate (%),74.59
+Perfect Order Rate (%),60.66
+Average Lead Time (days),32.21
+Delay Rate (%),25.41
+Cancellation Rate (%),4.40
+Average Shipping Cost (USD),3267.83
+Shipping Cost Ratio (%),26.06
+Inventory Turnover Ratio,24719.15
