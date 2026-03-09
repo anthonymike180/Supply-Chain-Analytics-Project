@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <p align="center">
-  <img src="images/Screenshot (210).png" alt="Visualizations Preview" width="90%"/>
+  <img src="images/Screenshot (210).png" alt="Screenshot Preview" width="90%"/>
 </p>
 
 A comprehensive Supply Chain Analytics project demonstrating end-to-end data analysis capabilities including data collection, cleaning, exploratory data analysis, KPI calculation, visualization, and predictive analytics.
