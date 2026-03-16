@@ -309,7 +309,7 @@ Open HTML files in your browser:
 
 ## 👨‍💻 Author
 
-ANthony Michael
+Anthony Michael
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/anthony-michael-b36382259)
 - GitHub: [My GitHub Profile](https://github.com/anthonymike180)
 - Email: anthonymike9110@gmail.com
